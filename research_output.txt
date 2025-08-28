@@ -1,0 +1,38 @@
+ Research Output for You: 
+Timestamp: 2025-08-25 14:42:41
+
+Topic: Quartz Watches
+
+Summary:
+Quartz watches use a quartz crystal oscillator regulated by an electronic circuit to keep time. When voltage is applied to the crystal, it vibrates at a precise frequency (commonly 32,768 Hz), and a dividing circuit converts these vibrations into a 1 Hz signal to drive a stepper motor or digital display. Introduced to the consumer market with the Seiko Quartz-Astron 35SQ in 1969, quartz technology rapidly improved accuracy, lowered costs, and sparked the “quartz crisis” for Swiss mechanical watchmakers in the 1970s–80s.
+
+Key concepts include:
+- Operation: Piezoelectric effect, tuning-fork cut (AT-cut) quartz resonators, temperature compensation (TCXO), and high-accuracy quartz (HAQ) movements achieving ±5 to ±10 seconds/year.
+- Power: Button cells; solar-charging systems such as Citizen Eco-Drive and Seiko Solar; kinetic/hybrid systems.
+- Accuracy: Standard quartz ~±15 sec/month; TCXO/thermocompensated movements (e.g., Grand Seiko 9F, Longines V.H.P., Bulova Precisionist/Accutron II) can reach seconds-per-year precision; radio-controlled (Multi-Band 6) and GPS-synchronized watches correct to atomic time.
+- Display/Drive: Analog stepper motor with 1 Hz tick or high-frequency sweep (e.g., Bulova Precisionist ~262 kHz); digital LCD/LED displays; hybrid ana-digi.
+- Features: Perpetual calendars, alarms, chronographs, backlights, world time, Bluetooth sync, solar charging, water resistance, and robust shock resistance.
+- Market and history: Seiko Astron launched 1969; rapid price drop through the 1970s; widespread adoption; Swiss industry disruption and later resurgence focusing on luxury mechanicals. Quartz remains dominant for affordability, durability, and accuracy.
+
+Notable examples:
+- Seiko Astron 35SQ (1969) – first commercial quartz wristwatch.
+- Citizen Eco-Drive – solar-powered quartz line.
+- Bulova Precisionist – high-frequency quartz with smooth-sweep seconds.
+- Radio-controlled watches – synchronize via longwave time signals.
+- GPS solar watches – receive satellite time and location.
+
+Sources:
+- Wikipedia: Quartz clock (quartz watches)
+- Wikipedia: Astron (wristwatch)
+- Wikipedia: Quartz crisis
+- Wikipedia: Eco-Drive
+- Wikipedia: Junghans Mega (radio-controlled wristwatch)
+- Wikipedia: Citizen Watch
+
+Tools Used: Wikipedia
+
+ Research Output for You: 
+Timestamp: 2025-08-28 18:49:11
+
+{"topic":"Rolex Watch Company (Rolex SA)","summary":"Rolex SA is a Swiss luxury watch manufacturer based in Geneva, renowned for the pioneering Oyster case (1926), the self-winding Perpetual rotor (1931), and a portfolio of iconic tool and dress watches such as the Submariner, Explorer, GMT‑Master, Day‑Date (\"President\"), Cosmograph Daytona, and Sea‑Dweller. The firm began in 1905 in London as Wilsdorf & Davis, founded by Hans Wilsdorf and Alfred Davis; Wilsdorf registered the Rolex trademark in 1908 and relocated operations to Geneva in 1919. Today Rolex is privately owned by the Hans Wilsdorf Foundation and led by CEO Jean‑Frédéric Dufour. Manufacturing is fully Swiss and vertically integrated across multiple sites, notably Geneva (Acacias, Plan‑les‑Ouates, Chêne‑Bourg) and Bienne for movements. Rolex sells exclusively through authorized retailers and does not sell online; in 2023 the company announced it would acquire the retailer Bucherer, further reshaping its distribution ecosystem. Rolex is widely regarded as the largest Swiss watch brand by revenue and output according to industry estimates. Beyond watchmaking, the Hans Wilsdorf Foundation supports philanthropic initiatives in Geneva and beyond.","sources":["https://en.wikipedia.org/wiki/Rolex","https://en.wikipedia.org/wiki/Hans_Wilsdorf","Rolex official website: About Rolex; The Manufacture — https://www.rolex.com/","Rolex pressroom: ‘Rolex to acquire Bucherer’ (press release, 24 Aug 2023) — https://newsroom.rolex.com/"],"tools_used":["functions.wikipedia","functions.search","multi_tool_use.parallel","functions.save_text_to_file"],"references":["Rolex — Wikipedia. https://en.wikipedia.org/wiki/Rolex. Accessed 2025-08-28.","Hans Wilsdorf — Wikipedia. https://en.wikipedia.org/wiki/Hans_Wilsdorf. Accessed 2025-08-28.","Rolex (official site). The Manufacture; About Rolex. https://www.rolex.com/. Accessed 2025-08-28.","Rolex Pressroom. ‘Rolex to acquire Bucherer.’ Press release dated 24 Aug 2023. https://newsroom.rolex.com/. Accessed 2025-08-28."]}
+
